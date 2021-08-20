@@ -1,5 +1,5 @@
 # My first Github repo
 
-Hello world! I am Katia
+Hello, world! I am Katia
 
 Welcome!
